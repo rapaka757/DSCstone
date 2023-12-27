@@ -1,4 +1,6 @@
 # DSCstone
+
 1st git repository
 <br>
-author-sandeep
+author - sandeep sai
+
